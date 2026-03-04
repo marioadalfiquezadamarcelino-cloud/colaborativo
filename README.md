@@ -4,7 +4,7 @@ Aplicación de consola en Java para gestionar tareas.
 
 ## Integrantes
 - Mario A
-- Adallfi B
+- Adalfi B
 
 ## Funcionalidades
 - Añadir tareas
