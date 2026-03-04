@@ -22,10 +22,14 @@ public class Tarea {
         this.completada = false;
     }
     
+        /**
+         * 
+         * 
+         */
     public String getDescripcion() {
         return descripcion;
     }
-
+    
     public boolean isCompletada() {
         return completada;
     }
